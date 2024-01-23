@@ -1,0 +1,24 @@
+table{
+    width: 100%;
+    font-family: Peddana;
+    border-collapse: collapse;
+    padding: 10px;
+    background-image: url("../Images/flower2.jpeg");
+
+}
+td {
+    border: 2px solid rebeccapurple;
+    text-align: center;
+    font-style: italic;
+
+}
+th{
+    color: crimson;
+    font-family: "Century Schoolbook L";
+    border: 2px solid rebeccapurple;
+}
+body{
+    background-image: url("Assets/Images/flower2.jpeg");
+}
+
+

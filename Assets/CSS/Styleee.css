@@ -1,0 +1,12 @@
+label{
+    border: moccasin;
+    font-family: "Padauk Book";
+}
+input{
+    border: moccasin;
+    font-family: "Ubuntu Light";
+    border: solid 2px black;
+}
+body{
+    background-color: lightcoral;
+}

@@ -1,0 +1,48 @@
+.flowers{
+    border: solid 3px darkblue;
+    background-color: darksalmon;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.snacks{
+    border: solid 3px bisque;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.cars{
+    border: solid 3px pink;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+.sneakers{
+    border: solid 3px black;
+    background-color: indianred;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+#computers{
+    border: solid 3px orangered;
+    background-color: darkgrey;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;
+    font-family: "DejaVu Sans";
+}
+#Prada{
+    border: deeppink;
+    background-color: lightslategray;
+    text-align: center;
+    margin: 25 px;
+    padding: 25 px;
+    font-family: "DejaVu Sans";
+}
